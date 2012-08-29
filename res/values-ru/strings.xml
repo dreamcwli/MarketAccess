@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="actual">Настройки</string>
+  <string name="settings">Операторы</string>
+  <string name="custom">Вручную</string>
+
+  <string name="applied">Эмуляция прошла успешно</string>
+  <string name="error">Ошибка эмуляции</string>
+  <string name="no_root">Для работы данного приложения нужны права root (superuser). Скорее всего программа \"su\" не
+    установлена на вашем устройстве.\n\nПожалуйста получите root и убедитесь что \"su\" работает нормально.
+  </string>
+  <string name="no_root_ok">OK, я понял</string>
+  <string name="working">Выполнение...</string>
+
+  <string name="restoring">Восстановление сохраненного значения</string>
+  <string name="emulating">Эмуляция оператора</string>
+  <string name="emulate">Эмулировать SIM карту\n\"%1$s\" (%2$s)?</string>
+  <string name="emulating_name">Эмуляция SIM: %1$s</string>
+
+  <string name="boot_emulation_off">Эмуляция при загрузке отключена</string>
+  <string name="boot_emulation_for">Эмуляция при загрузке для \"%1$s\"</string>
+
+  <string name="show_notification">Показывать уведомление</string>
+  <string name="emulate_on_boot">Эмулировать при загрузке</string>
+
+  <string name="backup">Резервная копия</string>
+  <string name="backup_ok">SIM значение \"%1$s\" сохранено</string>
+  <string name="restore">Восстановить</string>
+  <string name="confirm_restore">Вы действительно хотите восстановить \"%1$s\"?</string>
+  <string name="yes">Да</string>
+  <string name="no">Нет</string>
+  <string name="nothing">пусто</string>
+  <string name="about_1">MarketAccess — форк MarketEnabler 3.0.8 (авторы vekexasia и rac).</string>
+  <string name="about_2">Изменения включают: отсутствие рекламы, новые возможности, оптимизированный, переписанный с
+    нуля код.
+  </string>
+
+  <string name="boot_warning">Имейте в виду, эмуляция оператора может влиять на другие приложения. Если у вас возникнут
+    какие-либо проблемы, отключите автоматическую эмуляцию при загрузке и включайте ее вручную, когда захотите
+    сделать покупку в Маркете. Вы все еще хотите включить эмуляцию при загрузке?
+  </string>
+  <string name="set_to_this">Установить выбранное значение</string>
+
+  <string name="force_location">Место установки (только 2.2+)</string>
+  <string name="install_location">Место установки</string>
+  <string name="msg_loc">Изменение места установки</string>
+  <string name="msg_loc_failed">Не удалось изменить место установки</string>
+</resources>
