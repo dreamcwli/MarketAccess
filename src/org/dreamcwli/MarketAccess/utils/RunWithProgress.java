@@ -47,7 +47,7 @@ public class RunWithProgress {
   private static final String[] COMMANDS = new String[]{
     "setprop gsm.sim.operator.numeric %n",
     "killall com.android.vending",
-    "rm -rf /data/data/com.android.vending/cache/*",
+    "rm -r /data/data/com.android.vending/cache/*",
     "chmod 777 /data/data/com.android.vending/shared_prefs",
     "chmod 666 /data/data/com.android.vending/shared_prefs/vending_preferences.xml",
     "setpref com.android.vending vending_preferences boolean metadata_paid_apps_enabled true",
