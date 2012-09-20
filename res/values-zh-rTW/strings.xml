@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MarketAccess</string>
+  <string name="actual">設定</string>
+  <string name="settings">電信業者</string>
+  <string name="custom">自訂</string>
+  <string name="applied">模擬成功</string>
+  <string name="error">模擬錯誤</string>
+  <string name="no_root">您需要 root（超級使用者）權限使用此應用程式，但目前在您的裝置上似乎無法執行 \"su\" 指令。\n\n請在您的裝置取得 root 權限，並確保 \"su\" 指令能正常運作。</string>
+  <string name="no_root_ok">是的，我了解</string>
+  <string name="working">設定中...</string>
+  <string name="restoring">恢復備份的代碼</string>
+  <string name="emulating">模擬成自訂的電信業者</string>
+  <string name="emulate">模擬 \"%1$s\" (%2$s) 的代碼？</string>
+  <string name="emulating_name">模擬電信業者：%1$s</string>
+  <string name="boot_emulation_off">停用開機模擬</string>
+  <string name="boot_emulation_for">開機模擬為 \"%1$s\"</string>
+  <string name="show_notification">通知欄顯示</string>
+  <string name="emulate_on_boot">開機模擬</string>
+  <string name="backup">備份代碼</string>
+  <string name="backup_ok">代碼 \"%1$s\" 已備份</string>
+  <string name="restore">恢復備份的代碼</string>
+  <string name="confirm_restore">您想恢復成 \"%1$s\"？</string>
+  <string name="yes">是</string>
+  <string name="no">否</string>
+  <string name="nothing">沒有</string>
+  <string name="about_1">MarketAccess 修改自 MarketEnabler 3.0.8（vekexasia 和 rac）。</string>
+  <string name="about_2">改寫的部份包括沒有廣告，新的功能和最佳化，幾乎是從頭重新寫過。</string>
+  <string name="boot_warning">請注意，模擬電信業者可能會影響其他應用程式的運作，最好在想購買軟體時再模擬電信業者。您仍然要在開機時模擬？</string>
+  <string name="set_to_this">設定成這個代碼</string>
+  <string name="numeric">電信業者代碼：</string>
+  <string name="url">https://github.com/dreamcwli/MarketAccess</string>
+  <string name="force_location">強制安裝的位置（2.2 以上可用）</string>
+  <string name="install_location">安裝位置</string>
+  <string name="msg_loc">設定位置</string>
+  <string name="msg_loc_failed">設定位置失敗</string>
+</resources>
